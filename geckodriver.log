@@ -1558,3 +1558,391 @@ JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js
 JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
 JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
 1602803211025	Marionette	INFO	Stopped listening on port 41959
+1602838284559	geckodriver	INFO	Listening on 127.0.0.1:43187
+1602838284568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexIwCgY"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602838286875	Marionette	INFO	Listening on port 41427
+1602838286977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602838351540	Marionette	INFO	Stopped listening on port 41427
+1602838356961	geckodriver	INFO	Listening on 127.0.0.1:53193
+1602838356968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYxhvtY"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602838359312	Marionette	INFO	Listening on port 44203
+1602838359376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602838940889	Marionette	INFO	Stopped listening on port 44203
+1602838944460	geckodriver	INFO	Listening on 127.0.0.1:51193
+1602838944465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileivBv4v"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602838947004	Marionette	INFO	Listening on port 43789
+1602838947075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602838994258	Marionette	INFO	Stopped listening on port 43789
+1602839362619	geckodriver	INFO	Listening on 127.0.0.1:49359
+1602839362624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9U3Sme"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602839365102	Marionette	INFO	Listening on port 38447
+1602839365133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602839410121	Marionette	INFO	Stopped listening on port 38447
+1602839586442	geckodriver	INFO	Listening on 127.0.0.1:36671
+1602839586448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6nboVR"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602839588996	Marionette	INFO	Listening on port 44225
+1602839589056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.its.courts.state.co.us/mosaic/resources/static/jquery/jquery-1.10.2.min.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1602839603156	Marionette	INFO	Stopped listening on port 44225
+1602839630635	geckodriver	INFO	Listening on 127.0.0.1:38521
+1602839630641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCyQPvo"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602839633184	Marionette	INFO	Listening on port 44851
+1602839633253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602840000065	Marionette	INFO	Stopped listening on port 44851
+1602840003247	geckodriver	INFO	Listening on 127.0.0.1:34657
+1602840003252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHa9X6Z"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602840005848	Marionette	INFO	Listening on port 44701
+1602840005868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602840093460	Marionette	INFO	Stopped listening on port 44701
+1602840098095	geckodriver	INFO	Listening on 127.0.0.1:51933
+1602840098102	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileleH96Y"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602840100736	Marionette	INFO	Listening on port 38949
+1602840100811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602840134714	Marionette	INFO	Stopped listening on port 38949
+1602840192709	geckodriver	INFO	Listening on 127.0.0.1:56789
+1602840192715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledARIAK"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602840195361	Marionette	INFO	Listening on port 39351
+1602840195423	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602840241085	Marionette	INFO	Stopped listening on port 39351
+1602840243250	geckodriver	INFO	Listening on 127.0.0.1:57283
+1602840243256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGoklaK"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602840245781	Marionette	INFO	Listening on port 37457
+1602840245869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602840262497	Marionette	INFO	Stopped listening on port 37457
+1602840389391	geckodriver	INFO	Listening on 127.0.0.1:43715
+1602840389397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledZTEl5"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602840392042	Marionette	INFO	Listening on port 42651
+1602840392105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602840438311	Marionette	INFO	Stopped listening on port 42651
+1602840455235	geckodriver	INFO	Listening on 127.0.0.1:46723
+1602840455240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefiUBFQ"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602840457809	Marionette	INFO	Listening on port 35973
+1602840457848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602840476584	Marionette	INFO	Stopped listening on port 35973
+1602840650814	geckodriver	INFO	Listening on 127.0.0.1:48741
+1602840650824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemdGEXI"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602840653496	Marionette	INFO	Listening on port 39981
+1602840653532	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602840670519	Marionette	INFO	Stopped listening on port 39981
+1602841237633	geckodriver	INFO	Listening on 127.0.0.1:47881
+1602841237639	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVx0b5Q"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602841239874	Marionette	INFO	Listening on port 44673
+1602841239948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602841267874	Marionette	INFO	Stopped listening on port 44673
+1602841280597	geckodriver	INFO	Listening on 127.0.0.1:52621
+1602841280619	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKL2aYI"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602841283269	Marionette	INFO	Listening on port 38215
+1602841283328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602841307119	Marionette	INFO	Stopped listening on port 38215
+1602841331084	geckodriver	INFO	Listening on 127.0.0.1:49013
+1602841331090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem8wBPY"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602841333657	Marionette	INFO	Listening on port 42829
+1602841333698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602841351465	Marionette	INFO	Stopped listening on port 42829
+1602841537629	geckodriver	INFO	Listening on 127.0.0.1:48633
+1602841537634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGystn2"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602841540202	Marionette	INFO	Listening on port 42521
+1602841540243	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602841556638	Marionette	INFO	Stopped listening on port 42521
+1602841604078	geckodriver	INFO	Listening on 127.0.0.1:50433
+1602841604083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewyPOJC"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602841606730	Marionette	INFO	Listening on port 33409
+1602841606792	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602841620684	Marionette	INFO	Stopped listening on port 33409
+1602841718104	geckodriver	INFO	Listening on 127.0.0.1:45179
+1602841718111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemOCC81"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602841720738	Marionette	INFO	Listening on port 44555
+1602841720820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602841752598	Marionette	INFO	Stopped listening on port 44555
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1602841828431	geckodriver	INFO	Listening on 127.0.0.1:57125
+1602841828436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUu8XrM"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602841831094	Marionette	INFO	Listening on port 41801
+1602841831147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602841854134	Marionette	INFO	Stopped listening on port 41801
+1602841921281	geckodriver	INFO	Listening on 127.0.0.1:57379
+1602841921287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVQCode"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602841923813	Marionette	INFO	Listening on port 45283
+1602841923897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602841936134	Marionette	INFO	Stopped listening on port 45283
+1602842136419	geckodriver	INFO	Listening on 127.0.0.1:55575
+1602842136423	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDvH4O2"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602842139001	Marionette	INFO	Listening on port 35943
+1602842139033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602842153816	Marionette	INFO	Stopped listening on port 35943
+1602842248579	geckodriver	INFO	Listening on 127.0.0.1:56359
+1602842248584	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMrw5Ai"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602842250834	Marionette	INFO	Listening on port 41373
+1602842250892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
+1602842460340	Marionette	INFO	Stopped listening on port 41373
+1602842464130	geckodriver	INFO	Listening on 127.0.0.1:55895
+1602842464135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile98Dhm9"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602842466304	Marionette	INFO	Listening on port 42843
+1602842466341	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
+JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
+JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
+JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
+1602842564722	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602842805696	Marionette	INFO	Stopped listening on port 42843
+1602842812408	geckodriver	INFO	Listening on 127.0.0.1:56847
+1602842812412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile95uSjU"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602842814709	Marionette	INFO	Listening on port 39715
+1602842814721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
+JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
+JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
+JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
+1602842887738	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1602843012105	geckodriver	INFO	Listening on 127.0.0.1:45743
+1602843012110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaIgnoV"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602843014440	Marionette	INFO	Listening on port 42401
+1602843014519	Marionette	WARN	TLS certificate errors will be ignored for this session
+1602843018446	Marionette	INFO	Stopped listening on port 39715
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602843051473	geckodriver	INFO	Listening on 127.0.0.1:49705
+1602843051478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenEgsJK"
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+[fresh] [error] probe_ppp_module, can't find libpepflashplayer.so
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602843053729	Marionette	INFO	Listening on port 44223
+1602843053785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
+JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
+JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
+JavaScript warning: https://law-denver-csm.symplicity.com/jscalendar/calendar.js?t=1552932026, line 1449: unreachable code after return statement
+1602843135384	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1602843164708	Marionette	INFO	Stopped listening on port 44223

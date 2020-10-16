@@ -43,7 +43,7 @@ x = 1
 
 while x == 1:
     screenclear()
-    print(bcol.HEADER+'What kind of job are you posting Indeed[i], Government[g], or Other[o]?'+bcol.ENDC)
+    print(bcol.HEADER+'What kind of job are you posting Indeed[i], Government[g], CO-Clerkship[c], or Other[o]?'+bcol.ENDC)
     jobtype = raw_input()
     if jobtype == 'i':
         screenclear()
@@ -97,6 +97,37 @@ while x == 1:
 
         screenclear()
 
+    elif jobtype == 'c':
+        screenclear()
+        print(bcol.HEADER+'JUDICIAL CLERKSHIP'+bcol.ENDC)
+
+        print("Enter Mosaic URL")
+        joburl = raw_input()
+
+        driver.get(joburl)
+
+        sail = driver.find_element_by_css_selector('table.webTable:nth-child(5)').text
+
+        p1 = subprocess.Popen(["echo", sail], stdout=subprocess.PIPE)
+        p2 = subprocess.Popen(["sed", "/Job Description/d"], stdin=p1.stdout, stdout=subprocess.PIPE)
+        p1.stdout.close()  # Allow p1 to receive a SIGPIPE if p2 exits.
+        jobdescription_text = p2.communicate()[0].decode("utf-8", "ignore")
+
+        rawemployername_text = driver.find_element_by_css_selector('table.webTable:nth-child(4) > tbody:nth-child(1) > tr:nth-child(4) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(5) > td:nth-child(2)').text
+
+
+        p1 = subprocess.Popen(["echo", rawemployername_text], stdout=subprocess.PIPE)
+        p2 = subprocess.Popen(["sed", "s/ Trial/th Judicial District/"], stdin=p1.stdout, stdout=subprocess.PIPE)
+        p1.stdout.close()  # Allow p1 to receive a SIGPIPE if p2 exits.
+        employername_text = p2.communicate()[0].decode("utf-8").strip()
+
+        print(employername_text)
+
+        jobtitle_text = driver.find_element_by_css_selector('table.webTable:nth-child(4) > tbody:nth-child(1) > tr:nth-child(4) > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(2) > td:nth-child(2)').text
+        print(jobtitle_text)
+
+        sector_text = "Public Sector"
+        
     elif jobtype == 'o':
         screenclear()
         print(bcol.HEADER+'OTHER / MANUAL POSTING'+bcol.ENDC)
@@ -214,8 +245,8 @@ while x == 1:
         expirydate_input = out.strip()
 
         expiry_date = driver.find_element_by_id('dnf_class_values_job__job_end_')
-        expiry_date.click()
-        expiry_date.clear()
+        ##expiry_date.click()
+        ##expiry_date.clear()
         expiry_date.send_keys(expirydate_input)
        
         print(bcol.HEADER+"Now set up remaining parameters and finalize post"+bcol.ENDC)

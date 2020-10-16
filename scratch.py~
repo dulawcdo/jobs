@@ -1,8 +1,0 @@
-#!/bin/python
-
-
-print('Input Job Description')
-
-jobdescription = open("~/Documents/python/jobs/jobdescription.txt").read()
-
-print(jobdescription)
